@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TCott99
+- 👀 I’m interested new things
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me: You can't
